@@ -20,7 +20,7 @@ echo -e "$indicador Se van a instalar las dependencias"
 echo -e "		Las dependencias son: "
 echo -e "			python3-pyfiglet python3-pyshodan python3-pandas python3-pyexploitdb python3-quamash"
 
-sudo apt install python3-pyfiglet python3-pyshodan python3-pandas python3-pyexploitdb python3-quamash -y 2>&1 | grep Progress: 
+sudo apt install python3-pyfiglet python3-pyshodan python3-pandas python3-pyexploitdb python3-quamash -y
 
 echo
 echo -e "$indicador Se va a clonar el repositorio de Legion"

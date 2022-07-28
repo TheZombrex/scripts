@@ -20,7 +20,7 @@ echo -e "$indicator Dependencies will be installed"
 echo -e "		The dependencies are: "
 echo -e "			python3-pyfiglet python3-pyshodan python3-pandas python3-pyexploitdb python3-quamash"
 
-sudo apt install python3-pyfiglet python3-pyshodan python3-pandas python3-pyexploitdb python3-quamash -y 2>&1 | grep Progress: 
+sudo apt install python3-pyfiglet python3-pyshodan python3-pandas python3-pyexploitdb python3-quamash -y 
 
 echo
 echo -e "$indicator The Legion repository is going to be cloned"
