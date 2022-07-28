@@ -6,7 +6,7 @@ Herramienta para instalar Docker con todas sus dependencias automáticamente
 
 Para ejecutar el script en español usar el script ES_autoDocker.sh
 
-IMPORTANTE: Ejecuta los scripts sin sudo y cambie los permisos de ejecución de los scripts (sudo chmod +x *)
+IMPORTANTE: Ejecute los scripts sin sudo y cambie los permisos de ejecución de los scripts (sudo chmod +x *)
 
 ## English
 
